@@ -8,17 +8,39 @@ CURRENTLY STILL IN THE DEVELOPMENT STAGE
 
 https://pratamalabs.github.io/pl_phone
 
+---
+
 ## 📸 Preview
 
-<img width="449" height="907" alt="Screenshot 2026-02-18 100649" src="https://github.com/user-attachments/assets/88838928-2958-4590-8446-015f4459fc17" />
-<img width="433" height="901" alt="Screenshot 2026-02-18 100635" src="https://github.com/user-attachments/assets/f523c9e9-34c0-4806-9f93-b4655b1a2758" />
-<img width="505" height="909" alt="Screenshot 2026-02-18 100303" src="https://github.com/user-attachments/assets/87bbe52e-f274-4a56-8dc7-a8fab9b60226" />
-<img width="485" height="913" alt="Screenshot 2026-02-18 100240" src="https://github.com/user-attachments/assets/a70869cd-7e2f-40e4-8168-ac5a2e083f7a" />
-<img width="466" height="912" alt="Screenshot 2026-02-18 100126" src="https://github.com/user-attachments/assets/5cda0383-f6ba-4d29-9710-db57b2393b10" />
-<img width="428" height="921" alt="Screenshot 2026-02-18 100119" src="https://github.com/user-attachments/assets/e05ae817-9b1c-48c9-91b9-5a6efb84c67b" />
-<img width="458" height="904" alt="Screenshot 2026-02-18 100110" src="https://github.com/user-attachments/assets/1441ac7d-fae9-46d2-ab9d-118832aeb5b2" />
-<img width="452" height="928" alt="Screenshot 2026-02-18 100055" src="https://github.com/user-attachments/assets/ab649382-e05d-4f82-83c0-b4f6ad7d79cf" />
-<img width="435" height="893" alt="Screenshot 2026-02-18 095948" src="https://github.com/user-attachments/assets/d98a88a9-a7e3-4dcf-b602-048eb1e0fee3" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7717bc69-e429-4e80-a792-1498aa3a79ea" width="230"/>
+  <img src="https://github.com/user-attachments/assets/fd86c9df-be80-438c-ac57-407ef574898a" width="230"/>
+  <img src="https://github.com/user-attachments/assets/08928d69-a015-4a63-8c0f-41cdb94454d8" width="230"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ebd40778-746d-42fe-8733-07270d5eb270" width="230"/>
+  <img src="https://github.com/user-attachments/assets/1e918d2f-a0ff-4cb8-b8e9-e1c1290587b1" width="230"/>
+  <img src="https://github.com/user-attachments/assets/49d5bc05-c5a1-4a6c-9acc-4b412ff41e16" width="230"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/521d4c28-1066-4144-b60e-db24eb50fe92" width="230"/>
+  <img src="https://github.com/user-attachments/assets/36b54d99-064a-4db7-8420-26b8a6792e9b" width="230"/>
+  <img src="https://github.com/user-attachments/assets/de82b1b2-23bb-4290-9b3e-e3819ed72837" width="230"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/93d40011-4c76-46d4-9c0a-68be2c761b3f" width="230"/>
+  <img src="https://github.com/user-attachments/assets/77394615-a03f-498d-9e05-d68418244838" width="230"/>
+  <img src="https://github.com/user-attachments/assets/75b6e526-e81a-46d2-8c06-40c4e5a0f72a" width="230"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/98454da1-5d3e-4243-a4d7-32dbfd38284e" width="230"/>
+  <img src="https://github.com/user-attachments/assets/2ad1f77e-912c-40fe-9a95-91351c197853" width="230"/>
+  <img src="https://github.com/user-attachments/assets/fa43570f-e999-46af-93dd-e801186e2050" width="230"/>
+</p>
 
 ---
 
