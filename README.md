@@ -13,7 +13,7 @@ https://pratamalabs.github.io/pl_phone
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7717bc69-e429-4e80-a792-1498aa3a79ea" width="230"/>
+  <img src="https://github.com/user-attachments/assets/3d222d5d-dda3-43a6-b6ce-20537867b318" width="230" />
   <img src="https://github.com/user-attachments/assets/fd86c9df-be80-438c-ac57-407ef574898a" width="230"/>
   <img src="https://github.com/user-attachments/assets/08928d69-a015-4a63-8c0f-41cdb94454d8" width="230"/>
 </p>
