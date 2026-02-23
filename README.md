@@ -1,4 +1,4 @@
-# pl_phone
+<img width="445" height="907" alt="Screenshot 2026-02-23 195236" src="https://github.com/user-attachments/assets/f3b9e057-6e4e-4c1e-b0df-03277cad3495" /># pl_phone
 
 CURRENTLY STILL IN THE DEVELOPMENT STAGE
 
@@ -43,6 +43,7 @@ https://pratamalabs.github.io/pl_phone
 </p>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/cb4e07a3-cdc5-4657-a0b3-469457fbff84" width="230" />
   <img src="https://github.com/user-attachments/assets/aee0103c-f06c-47b8-bdd4-25c6e032c53a" width="230" />
   <img src="https://github.com/user-attachments/assets/f6e8a00a-e7bc-4c9b-86b8-ab3128ad0cb4" width="230" />
 </p>
