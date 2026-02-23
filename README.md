@@ -1,4 +1,4 @@
-<img width="445" height="907" alt="Screenshot 2026-02-23 195236" src="https://github.com/user-attachments/assets/f3b9e057-6e4e-4c1e-b0df-03277cad3495" /># pl_phone
+# pl_phone
 
 CURRENTLY STILL IN THE DEVELOPMENT STAGE
 
