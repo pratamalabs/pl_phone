@@ -12,9 +12,10 @@ https://pratamalabs.github.io/pl_phone
 
 ## 📸 Preview
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3d222d5d-dda3-43a6-b6ce-20537867b318" width="230" />
-  <img src="https://github.com/user-attachments/assets/fd86c9df-be80-438c-ac57-407ef574898a" width="230"/>
+  <img src="https://github.com/user-attachments/assets/947e1221-ce54-435f-9899-37a2f744b22b"  width="230" />
   <img src="https://github.com/user-attachments/assets/08928d69-a015-4a63-8c0f-41cdb94454d8" width="230"/>
 </p>
 
@@ -43,7 +44,7 @@ https://pratamalabs.github.io/pl_phone
 </p>
 
 <p align="center">
-   <img width="437" height="895" alt="Screenshot 2026-02-23 195945" src="https://github.com/user-attachments/assets/0b3d9ced-b767-4a90-aee6-36317245f31c" />
+   <img width="230" src="https://github.com/user-attachments/assets/0b3d9ced-b767-4a90-aee6-36317245f31c" />
   <img src="https://github.com/user-attachments/assets/aee0103c-f06c-47b8-bdd4-25c6e032c53a" width="230" />
   <img src="https://github.com/user-attachments/assets/f6e8a00a-e7bc-4c9b-86b8-ab3128ad0cb4" width="230" />
 </p>
