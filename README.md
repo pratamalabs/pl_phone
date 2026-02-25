@@ -48,6 +48,10 @@ https://pratamalabs.github.io/pl_phone
   <img src="https://github.com/user-attachments/assets/aee0103c-f06c-47b8-bdd4-25c6e032c53a" width="230" />
   <img src="https://github.com/user-attachments/assets/f6e8a00a-e7bc-4c9b-86b8-ab3128ad0cb4" width="230" />
 </p>
+
+<p align="center">
+  <img width="230" src="https://github.com/user-attachments/assets/ebcde626-2959-4335-93d4-2c8c94404bc5" />
+</p>
 ---
 
 ## 🧩 Framework Support
