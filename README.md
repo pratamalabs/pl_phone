@@ -35,7 +35,8 @@ https://pratamalabs.github.io/pl_phone
 <p align="center">
   <img src="https://github.com/user-attachments/assets/93d40011-4c76-46d4-9c0a-68be2c761b3f" width="230"/>
   <img src="https://github.com/user-attachments/assets/77394615-a03f-498d-9e05-d68418244838" width="230"/>
-  <img src="https://github.com/user-attachments/assets/75b6e526-e81a-46d2-8c06-40c4e5a0f72a" width="230"/>
+  <img width="230" alt="Screenshot 2026-03-10 061941" src="https://github.com/user-attachments/assets/6db0481d-ec46-447e-9fc3-e2fde7b44238" />
+
 </p>
 
 <p align="center">
